@@ -9,11 +9,15 @@
 [Link](https://velog.io/@heunyam/Flask-Context)
 
 ### 도구 사용기
-- 📝 schematics - request validation에 사용중
+- 📝 schematics - request validation에 사용
 [Link](https://velog.io/@heunyam/schematics-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B2%80%EC%A6%9D%EC%9D%84-%EC%9C%84%ED%95%9C-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC)
 
 - 📝 portainer - docker container log만 편하게 볼 수 없을까 찾아보다 발견한 도구
 [Link](https://velog.io/@heunyam/%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81%ED%88%B4%EB%A1%9C-Portainer-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
 
-- 📝 gunicorn - "Do not use it in a production deployment.Use a production WSGI server instead"
+- 📝 gunicorn - "Do not use it in a production deployment.Use a production WSGI server instead" 문구에 나오는 WSGI가 이놈 입니다.
 [Link](https://velog.io/@heunyam/WSGI%EB%A1%9C-Gunicorn)
+
+### 에러 해결
+- 🔧 zappa - window python3.8 환경에서 zappa 에러 고치기 
+[Link](https://velog.io/@heunyam/zappa-install-error)
