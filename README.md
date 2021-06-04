@@ -1,6 +1,10 @@
 # Blog
 블로그 좀 써볼까??
 
+### 공부
+- 🤔 게시물 "좋아요" 여부를 어떻게 설계할까?
+[Link](https://velog.io/@heunyam/API-%EC%84%A4%EA%B3%84-%EA%B2%8C%EC%8B%9C%EB%AC%BC%EC%97%90-%EB%8C%80%ED%95%9C-%EC%A2%8B%EC%95%84%EC%9A%94-%EC%97%AC%EB%B6%80)
+
 ### 개념 공부
 - 💬 언어론 관련해서 공부할려고 시도한 흔적 
 [Link](https://velog.io/@heunyam/%EC%96%B8%EC%96%B4%EB%A1%A0-%EA%B4%80%EB%A0%A8-%EA%B3%B5%EB%B6%80)
