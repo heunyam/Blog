@@ -8,6 +8,8 @@
 #### 알고리즘
 - 풍선 터트리기
 [Link](https://github.com/GRAM-DSM/Study-Algorithm/blob/master/Season2/%EA%B9%80%EC%84%B8%EC%A4%80/%ED%92%8D%EC%84%A0%20%ED%84%B0%ED%8A%B8%EB%A6%AC%EA%B8%B0.md)
+- 수식 최대화
+[Link](https://github.com/GRAM-DSM/Study-Algorithm/blob/master/Season2/%EA%B9%80%EC%84%B8%EC%A4%80/%EC%88%98%EC%8B%9D%20%EC%B5%9C%EB%8C%80%ED%99%94.md)
 
 ### 개념 공부
 - 💬 언어론 관련해서 공부할려고 시도한 흔적 
