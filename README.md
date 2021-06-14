@@ -1,6 +1,10 @@
 # Blog
 블로그 좀 써볼까??
 
+### 블로그 미리보기
+- 블로그에 올리기 전 노션에 간단히 정리합니다.
+[Link](https://www.notion.so/heunyam/18cd36404c214661a3bf0970939a4f6e)
+
 ### 공부
 - 🤔 게시물 "좋아요" 여부를 어떻게 설계할까?
 [Link](https://velog.io/@heunyam/API-%EC%84%A4%EA%B3%84-%EA%B2%8C%EC%8B%9C%EB%AC%BC%EC%97%90-%EB%8C%80%ED%95%9C-%EC%A2%8B%EC%95%84%EC%9A%94-%EC%97%AC%EB%B6%80)
